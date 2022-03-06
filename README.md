@@ -1,2 +1,0 @@
-# SLLIT-Workshop
-SLIIT-Workshop
